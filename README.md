@@ -1,7 +1,7 @@
 # 😈불편한 가계부 README
 ### [demo](https://pvvng.github.io/hostHousehold/)
 
-## installation library
+## installedlibrary
     npm install @reduxjs/toolkit@1.8.1 react-redux
     npm install react-router-dom@6
     npm i --save @fortawesome/free-solid-svg-icons
